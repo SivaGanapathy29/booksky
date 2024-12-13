@@ -1,0 +1,6 @@
+[[redirects]]
+from = "/*"
+to = "/booksky.html"
+status = 200
+
+
